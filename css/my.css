@@ -5,9 +5,16 @@ body {
   font-size: 12px;
 }
 
+.i {
+  /*padding: 3px;*/
+  margin: 0px;
+}
+
 .cmdline {
   border: 0px;
   outline: 0pt none;
   font-family: 'Nova Mono', cursive;
   font-size: 12px;
+  margin: 0px;
+  padding: 0px;
 }

@@ -4,7 +4,7 @@ $(function() {
   $("#inputfield").keyup(function(e) {
     switch(e.keyCode) {
       case 13:
-        $('#history').append("<div>&gt; "+$("#inputfield").val()+"</div>");
+        $('#history').append("<div>&gt; <span class=\"i\">"+$("#inputfield").val()+"</span></div>");
         $("#inputfield").val("");
         $("#inputfield").focus();
         break;
