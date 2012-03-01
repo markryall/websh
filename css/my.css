@@ -1,0 +1,13 @@
+@import url(http://fonts.googleapis.com/css?family=Nova+Mono);
+
+body {
+  font-family: 'Nova Mono', cursive;
+  font-size: 12px;
+}
+
+.cmdline {
+  border: 0px;
+  outline: 0pt none;
+  font-family: 'Nova Mono', cursive;
+  font-size: 12px;
+}
